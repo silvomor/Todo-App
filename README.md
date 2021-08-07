@@ -3,7 +3,7 @@
 ## Preview:
 
 ![gif1](https://github.com/silvomor/Todo-App/raw/main/vue-fe/src/assets/gif1.gif)
-
+---
 ![gif2](https://github.com/silvomor/Todo-App/raw/main/vue-fe/src/assets/gif2.gif)
 ---
 ## Description 
