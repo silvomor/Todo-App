@@ -4,7 +4,7 @@
 
 ![gif1]('Todo-App/vue-fe/src/assets/gif1.gif')
 ---
-![gif1]('Todo-App/vue-fe/src/assets/gif1.gif')
+![gif2]('Todo-App/vue-fe/src/assets/gif2.gif')
 ---
 ## Description 
 ---
